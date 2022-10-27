@@ -1,0 +1,6 @@
+- op: add
+  path: "/spec/source/helm"
+  value:
+    values: |-
+      ## DONT REMOVE ME
+      ## OR ME
