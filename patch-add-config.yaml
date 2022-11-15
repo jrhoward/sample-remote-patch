@@ -1,4 +1,4 @@
-- op: replace
+- op: add
   path: "/data/ui.yaml"
   value: |
     property.one=value-one
