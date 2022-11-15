@@ -1,0 +1,4 @@
+data:
+  functional.yaml: |
+    functional.one=value-one
+    functional.two=value-two
