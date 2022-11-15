@@ -1,0 +1,5 @@
+- op: add
+  path: "/data/functional.yaml"
+  value: |
+    functional.one=value-one
+    functional.two=value-two
