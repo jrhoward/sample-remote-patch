@@ -1,5 +1,5 @@
 - op: replace
-  path: "/data/ui.yaml/"
+  path: "/data/ui.yaml"
   value: |
     property.one=value-one
     property.two=value-two
