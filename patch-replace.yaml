@@ -1,5 +1,3 @@
-- op: replace
-  path: "/spec/source/helm/values"
-  value: |
-    ## DONT REMOVE ME
-    ## OR ME
+env: remote
+properties: filename.yaml
+configName: remoteRepoConfigmap
