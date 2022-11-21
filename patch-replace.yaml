@@ -1,3 +1,4 @@
 env: remote
-properties: filename.yaml
+properties: |
+  prop-1=prop-1
 configName: remoteRepoConfigmap
